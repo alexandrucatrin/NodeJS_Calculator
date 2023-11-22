@@ -16,11 +16,13 @@ This is a simple command-line calculator application written in Node.js. Users c
 4. **Navigate to the Code Directory:**
    - Use the `cd` command to navigate to the directory where you saved the `calculator.js` file.
 
+
    ```bash
    cd path/to/directory
 
 4. **Run the Calculator:**
    - Use the `node` command to execute the `calculator.js` file.
+
 
    ```bash
    node calculator.js
