@@ -18,3 +18,9 @@ This is a simple command-line calculator application written in Node.js. Users c
 
    ```bash
    cd path/to/directory
+
+4. **Run the Calculator:**
+   - Use the `node` command to execute the `calculator.js` file.
+
+   ```bash
+   node calculator.js
